@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Personal Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <body style="background-color:Dark peach;">
+        <h1 style="color:Olive Green;">Falodun Alexander
+       </h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#cv">CV</a></li>
+                <li><a href="#photos">photos</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section id="about">
+        <h2 style="color:pale yellow;">About Me</h2>
+        <!-- Add your about me content here -->
+    </section>
+    <section id="cv">
+        <h2 style="color:Light Blue Green;">CV</h2>
+        <!-- Add your CV content here -->
+    </section>
+    <section id="photos">
+        <h2 style="color:Peachy Kreme;">Photos</h2>
+        <!-- Add your photos here -->
+        <div class="photos">
+            <!-- Add your images here -->
+        </div>
+    </section>
+    <script src="script.js"></script>
+</body>
+</html>
